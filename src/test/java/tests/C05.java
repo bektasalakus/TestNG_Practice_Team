@@ -1,8 +1,6 @@
 package tests;
 
-public class c05{
-
-
+public class C05 {
 
 
 
